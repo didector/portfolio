@@ -138,10 +138,11 @@ body{
     padding-top: 15%;
     float: right;
 }
-.foot footer{
+footer{
     position: relative;
     bottom: 0;
     text-align: center;
     float: right;
+background:rgb(235, 118, 39);
 }
 /* ---------------------------------------------------------------------------------------- */
